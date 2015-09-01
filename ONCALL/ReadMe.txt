@@ -3,7 +3,7 @@ ONCALL AGENT for Status Board
 ****SERVER SIDE*****
 
 Requirements:
-PHP X.XX
+PHP 5.X
 Apache/IIS
 
 
